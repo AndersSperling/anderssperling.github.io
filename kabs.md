@@ -3,41 +3,38 @@ layout: default
 title: KABS
 ---
 
-<p>KABS står for Koordinator af Bachelor Studiestarten. Der er 31 KABS, som hver har en retning og en rustur, hvoraf tre af rusturene er weekendture, hvor en af dem er alkoholfri. </p>
-<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os over vores mail: dtu.kabs@gmail.com</p>
+<p>KABS står for Koordinator af Bachelor Studiestarten. Der er 29 KABS, som hver har en retning og en rustur, hvoraf to af rusturene er henholdsvis almindelig og alkoholfri weekendtur.</p>
+<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os over vores mail: kabsdtu@gmail.com</p>
 
-<h2>KABS18:</h2>
+<h2>KABS17:</h2>
 <ul>
-  <li>Benhamin Steen-Andersen - D. Byggeri og Infrastruktur & D. Aktisk Teknologi</li>
-  <li>Jacob Pedersen - Diplom Bygningsdesign</li>
-  <li>Jakob M�lhave - D. Elektroteknologi & D. Elektrisk Energiteknologi</li>
-  <li>Sarah Beckerlee - D. Eksport og Teknologi</li>
-  <li>Sofie Emelie Lind - D. F�devaresikkerhed og -kvalitet</li>
-  <li>Emeli Gottrup Hansen - D. Kemi og Bioteknik & D. Kemiteknik og International Business</li>
-  <li>Daniel Alkj�r - D. Maskinteknik</li>
-  <li>Jens-Theodor Andersen - D. Mobilistik, Transport og Logistik</li>
-  <li>Louise Landchoff - D. Proces og Innovation & D. Produktion</li>
-  <li>Helene F. Zgaya - D. Softwareteknologi & D. IT og �konomi</li>
-  <li>Nicki Duris Rasmussen - D. Sundhedsteknologi og D. IT-Elektronik</li>
-  <li> Mie Siewertsen - C. Bioteknologi</li>
-  <li>Mathias Heegaard - C. Byggeteknologi</li>
-  <li>Anne Arendt Louring - C. Bygningsdesign</li>
-  <li>Lasse Glente - C. Data Science og Kunstig Intelligens</li>
-  <li>Marie Boeskov Caspersen - C. Design og Innovation</li>
-  <li>Nikolaj Geertinger - C. Elektroteknologi</li>
-  <li>Kathrine B�rgeseson - C. Energi og Teknologi</li>
-  <li>Marcus Schmidt - C. Fysik og Nanoteknologi</li>
-  <li>David Fasthold - C. Geofysik og Rumteknologi</li>
-  <li>Emma Aabo Nielsen - C- Geofysik og Rumteknologi</li>
-  <li>Sofia Myrup Otero - C. Kvantitativ Biologi og Sygdomsmodellering</li>
-  <li>Emil Bach Andersen - C. Kemi og Teknologi</li>
-  <li>Toke B�gelund-Andersen - C. Matematik og Teknologi</li>
-  <li>Emil G�de - C. Medicin og teknologi</li>
-  <li>Christoffer Piilmann - C. Netv�rsteknologi og IT</li>
-  <li>Emma Hillersdal - C. Produktion og Konstruktion</li>
-  <li>Emilie Lund SChr�der - C. Software</li>
-  <li>Asbj�rn Marin Kruuse - C. Strategisk Analyse og Systemdesign</li>
-  <li>Anders Christian Sperling - C. Teknisk Biomedicin</li>
-  <li>Vinh Duy Nguyen - C. Vand, Bioressourcer og Milj�management</li>
-  
+  <li>Adam Ørbæk Sommer - C. Strategisk Analyse og Systemdesign</li>
+  <li>Aksel Rasmussen - C. Matematik og Teknologi</li>
+  <li>Amalie Bang Forsberg - C. General Engineering</li>
+  <li>Anna Stærmose - C. Kemi og Teknologi</li>
+  <li>Caroline Erup Friis - C. Bygningsdesign</li>
+  <li>Christian Brabrand - C. Produktion og Konstruktion</li>
+  <li>Christoffer Voigt - C. Netværksteknologi og IT</li>
+  <li>Daniel Styrbæk - C. Byggeteknologi</li>
+  <li>Daniel Voss - D. Byggeri og infrastuktur og D. Arktisk Teknologi</li>
+  <li>David Madsen - D. Fødevaresikkerhed og kvalitet</li>
+  <li>Fanny Timian - C. Design og Innovation</li>
+  <li>Helene Swartz - D. Maskinteknik</li>
+  <li>Jacob Grove - D. Trafik og Transport (D. Mobilitet, Transport og Logistik) </li>
+  <li>Jacob Kviat Bergmann - C. Elektroteknologi</li>
+  <li>Jesper Kisum - C. Geofysik og rumteknologi</li>
+  <li>Johanne Sall - C. Softwareteknologi</li>
+  <li>Josefine Maribo Schuler - D. Produktion og D. Proces og Innovation</li>
+  <li>Karen Scharling Dyhr - C. Vand, bioressourcer og miljømanagement</li>
+  <li>Kristian Brink - D. Bygningsdesign</li>
+  <li>Laura Kleist Elmlund Kohl - C. Teknisk Biomedicin</li>
+  <li>Marianne Hecht - C. Kvantitativ Biologi og Sygdomsmodellering</li>
+  <li>Oscar Vist Salo - D. Elektroteknologi og D. Elektrisk Energiteknologi</li>
+  <li>Oskar Bek Jørgensen - 	D. Kemi- og Bioteknik og D. Kemiteknik og International Business</li>
+  <li>Rasmus Bellerby - D. Sundhedsteknologi og IT</li>
+  <li>Rasmus Højgaard - C. Fysik og Nanoteknologi</li>
+  <li>Simon Lundorf - D. Softwareteknologi og ITØ</li>
+  <li>Sophie Eg Jensen - D. Eksport og Teknologi</li>
+  <li>Thomas Røpke - C. Medicin og Teknologi</li>
+  <li>Tor Noema Nørgaard - C. Bioteknologi</li>
 </ul>
