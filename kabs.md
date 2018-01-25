@@ -6,7 +6,7 @@ title: KABS
 <h1>KABS</h1>
 
 <p>KABS står for Koordinator af Bachelor Studiestarten. Der er 31 KABS, som hver har en retning og en rustur, hvoraf tre af rusturene er weekendture, hvor en af dem er alkoholfri. </p>
-<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os over vores mail: dtu.kabs@gmail.com</p>
+<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os over vores mail: kabs@pf.dk</p>
 
 <h2>KABS18:</h2>
 <ul>
