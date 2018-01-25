@@ -6,6 +6,7 @@ body {
 
 #container {
   margin: auto;
+  top:0;
   font-family: 'Droid Serif', serif;
   color: #ffffff;
   background-image: url("/static/img/mainBaggrund.jpeg");
