@@ -12,7 +12,7 @@ title: KABS
   <li>Jacob Pedersen - BEng. Architectural Engineering</li>
   <li>Jakob Mølhave - BEng. Electrical Engineering & BEng. Electrical Energy Technology</li>
   <li>Sarah Beckerlee - BEng. Global Business Engineering</li>
-  <li>Sofie Emelie Lind - BEng. Food Safety and Quality</li>
+  <li>Sofie Emilie Lind - BEng. Food Safety and Quality</li>
   <li>Emeli Gottrup Hansen - BEng. Chemical and Bio Engineering & BENG. Chemical Engineering and International Business</li>
   <li>Daniel Alkjær Christiansen - BEng. Mechanical Engineering</li>
   <li>Jens-Theodor Andersen - BEng. Mobility Transport and Logistics</li>

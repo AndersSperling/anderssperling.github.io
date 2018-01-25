@@ -12,10 +12,10 @@ title: KABS
   <li>Jacob Pedersen - D. Bygningsdesign</li>
   <li>Jakob Mølhave - D. Elektroteknologi & D. Elektrisk Energiteknologi</li>
   <li>Sarah Beckerlee - D. Eksport og Teknologi</li>
-  <li>Sofie Emelie Lind - D. Fødevaresikkerhed og -kvalitet</li>
+  <li>Sofie Emilie Lind - D. Fødevaresikkerhed og -kvalitet</li>
   <li>Emeli Gottrup Hansen - D. Kemi og Bioteknik & D. Kemiteknik og International Business</li>
   <li>Daniel Alkjær Christiansen - D. Maskinteknik</li>
-  <li>Jens-Theodor Andersen - D. Mobilistik, Transport og Logistik</li>
+  <li>Jens-Theodor Andersen - D.  Mobilitet Transport og Logistik</li>
   <li>Louise Landschoff - D. Proces og Innovation & D. Produktion</li>
   <li>Helene F. Zgaya - D. Softwareteknologi & D. IT og Økonomi</li>
   <li>Nicki Duris Rasmussen - D. Sundhedsteknologi og D. IT-Elektronik</li>
