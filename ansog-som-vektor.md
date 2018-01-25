@@ -5,7 +5,7 @@ title: Ansøg som Vektor
 <h1>Ansøgningen til Vektor18 er åben!</h1>
 
 <p>Så er det tid til at blive vektor! Ansøgningen lukker den 9. februar!<br/>
-  <a style="text-align: center;" href="https://docs.google.com/forms/d/1FPSjaTFIfkd44Ehvjm6SxCSvUlCb9Vno_noVFlLz790/edit"><button class="applyBtn">Apply now!</button></a>
+  <a style="text-align: center;" href="https://docs.google.com/forms/d/1FPSjaTFIfkd44Ehvjm6SxCSvUlCb9Vno_noVFlLz790/edit"><button class="applyBtn">Ansøg nu!</button></a>
   
 </p>
 
