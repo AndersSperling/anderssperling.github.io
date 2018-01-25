@@ -30,7 +30,7 @@ title: KABS
   <li>Kathrine Børgesson - C. Energi og Teknologi</li>
   <li>Marcus Schmidt - C. Fysik og Nanoteknologi</li>
   <li>David Fastholm - C. General Engineering</li>
-  <li>Emma Aabo Nielsen - C- Geofysik og Rumteknologi</li>
+  <li>Emma Aabo Nielsen - C. Geofysik og Rumteknologi</li>
   <li>Sofia Myrup Otero - C. Kvantitativ Biologi og Sygdomsmodellering</li>
   <li>Emil Bach Andersen - C. Kemi og Teknologi</li>
   <li>Toke Bøgelund-Andersen - C. Matematik og Teknologi</li>
