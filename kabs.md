@@ -31,13 +31,13 @@ title: KABS
   <li>Emma Aabo Nielsen - C- Geofysik og Rumteknologi</li>
   <li>Sofia Myrup Otero - C. Kvantitativ Biologi og Sygdomsmodellering</li>
   <li>Emil Bach Andersen - C. Kemi og Teknologi</li>
-  <li>Toke B�gelund-Andersen - C. Matematik og Teknologi</li>
-  <li>Emil G�de - C. Medicin og teknologi</li>
+  <li>Toke Bøgelund-Andersen - C. Matematik og Teknologi</li>
+  <li>Emil Gæde - C. Medicin og teknologi</li>
   <li>Christoffer Piilmann - C. Netværsteknologi og IT</li>
   <li>Emma Hillersdal - C. Produktion og Konstruktion</li>
   <li>Emilie Lund SChr�der - C. Software</li>
   <li>Asbj�rn Marin Kruuse - C. Strategisk Analyse og Systemdesign</li>
   <li>Anders Christian Sperling - C. Teknisk Biomedicin</li>
-  <li>Vinh Duy Nguyen - C. Vand, Bioressourcer og Milj�management</li>
+  <li>Vinh Duy Nguyen - C. Vand, Bioressourcer og Miljømanagement</li>
   
 </ul>
