@@ -10,11 +10,11 @@ title: KABS
 <ul>
   <li>Benhamin Steen-Andersen - D. Byggeri og Infrastruktur & D. Aktisk Teknologi</li>
   <li>Jacob Pedersen - Diplom Bygningsdesign</li>
-  <li>Jakob M�lhave - D. Elektroteknologi & D. Elektrisk Energiteknologi</li>
+  <li>Jakob Mølhave - D. Elektroteknologi & D. Elektrisk Energiteknologi</li>
   <li>Sarah Beckerlee - D. Eksport og Teknologi</li>
   <li>Sofie Emelie Lind - D. F�devaresikkerhed og -kvalitet</li>
   <li>Emeli Gottrup Hansen - D. Kemi og Bioteknik & D. Kemiteknik og International Business</li>
-  <li>Daniel Alkj�r - D. Maskinteknik</li>
+  <li>Daniel Alkjær - D. Maskinteknik</li>
   <li>Jens-Theodor Andersen - D. Mobilistik, Transport og Logistik</li>
   <li>Louise Landchoff - D. Proces og Innovation & D. Produktion</li>
   <li>Helene F. Zgaya - D. Softwareteknologi & D. IT og �konomi</li>
@@ -25,7 +25,7 @@ title: KABS
   <li>Lasse Glente - C. Data Science og Kunstig Intelligens</li>
   <li>Marie Boeskov Caspersen - C. Design og Innovation</li>
   <li>Nikolaj Geertinger - C. Elektroteknologi</li>
-  <li>Kathrine B�rgeseson - C. Energi og Teknologi</li>
+  <li>Kathrine Børgeseson - C. Energi og Teknologi</li>
   <li>Marcus Schmidt - C. Fysik og Nanoteknologi</li>
   <li>David Fasthold - C. General Engineering</li>
   <li>Emma Aabo Nielsen - C- Geofysik og Rumteknologi</li>
@@ -33,7 +33,7 @@ title: KABS
   <li>Emil Bach Andersen - C. Kemi og Teknologi</li>
   <li>Toke B�gelund-Andersen - C. Matematik og Teknologi</li>
   <li>Emil G�de - C. Medicin og teknologi</li>
-  <li>Christoffer Piilmann - C. Netv�rsteknologi og IT</li>
+  <li>Christoffer Piilmann - C. Netværsteknologi og IT</li>
   <li>Emma Hillersdal - C. Produktion og Konstruktion</li>
   <li>Emilie Lund SChr�der - C. Software</li>
   <li>Asbj�rn Marin Kruuse - C. Strategisk Analyse og Systemdesign</li>
