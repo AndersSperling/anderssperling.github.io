@@ -5,7 +5,7 @@ title: Apply as a Vector
 <h1>The application for Vektor18 is now open!</h1>
 
 <p>Now it is time to apply for vector. Deadline is the 9th February.<br/>
-  <a href="https://docs.google.com/forms/d/1FPSjaTFIfkd44Ehvjm6SxCSvUlCb9Vno_noVFlLz790/edit"><button class="applyBtn">Ansøg nu!</button></a>
+  <a style="text-align: center;" href="https://docs.google.com/forms/d/1FPSjaTFIfkd44Ehvjm6SxCSvUlCb9Vno_noVFlLz790/edit"><button class="applyBtn">Ansøg nu!</button></a>
   
 </p>
 
