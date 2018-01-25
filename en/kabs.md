@@ -3,8 +3,8 @@ layout: en
 title: KABS
 ---
 
-<p>KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are a total of 29 KABS, that each have their study programme and rus trip, two of which are a normal and an alcohol-free weekend trip, accordingly.</p>
-<p>To get in touch with KABS, you are always welcome to contact us on our mail: kabsdtu@gmail.com</p>
+<p>KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are a total of 31 KABS, that each have their study programme and rus trip, three of which are weekendtrips, with one of these being alcohol-free.</p>
+<p>To get in touch with KABS, you are always welcome to contact us on our mail: dtu.kabs@gmail.com</p>
 
 <h2>KABS17:</h2>
 <ul>
