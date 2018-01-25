@@ -8,26 +8,26 @@ title: KABS
 
 <h2>KABS18:</h2>
 <ul>
-  <li>Benhamin Steen-Andersen - D. Byggeri og Infrastruktur & D. Aktisk Teknologi</li>
+  <li>Benjamin Steen-Andersen - D. Byggeri og Infrastruktur & D. Arktisk Teknologi</li>
   <li>Jacob Pedersen - Diplom Bygningsdesign</li>
   <li>Jakob Mølhave - D. Elektroteknologi & D. Elektrisk Energiteknologi</li>
   <li>Sarah Beckerlee - D. Eksport og Teknologi</li>
-  <li>Sofie Emelie Lind - D. F�devaresikkerhed og -kvalitet</li>
+  <li>Sofie Emelie Lind - D. Fødevaresikkerhed og -kvalitet</li>
   <li>Emeli Gottrup Hansen - D. Kemi og Bioteknik & D. Kemiteknik og International Business</li>
-  <li>Daniel Alkjær - D. Maskinteknik</li>
+  <li>Daniel Alkjær Christiansen - D. Maskinteknik</li>
   <li>Jens-Theodor Andersen - D. Mobilistik, Transport og Logistik</li>
-  <li>Louise Landchoff - D. Proces og Innovation & D. Produktion</li>
-  <li>Helene F. Zgaya - D. Softwareteknologi & D. IT og �konomi</li>
+  <li>Louise Landschoff - D. Proces og Innovation & D. Produktion</li>
+  <li>Helene F. Zgaya - D. Softwareteknologi & D. IT og Økonomi</li>
   <li>Nicki Duris Rasmussen - D. Sundhedsteknologi og D. IT-Elektronik</li>
-  <li> Mie Siewertsen - C. Bioteknologi</li>
+  <li>Mie Siewertsen - C. Bioteknologi</li>
   <li>Mathias Heegaard - C. Byggeteknologi</li>
   <li>Anne Arendt Louring - C. Bygningsdesign</li>
-  <li>Lasse Glente - C. Data Science og Kunstig Intelligens</li>
+  <li>Lasse Thorø Glente - C. Data Science og Kunstig Intelligens</li>
   <li>Marie Boeskov Caspersen - C. Design og Innovation</li>
   <li>Nikolaj Geertinger - C. Elektroteknologi</li>
-  <li>Kathrine Børgeseson - C. Energi og Teknologi</li>
+  <li>Kathrine Børgesson - C. Energi og Teknologi</li>
   <li>Marcus Schmidt - C. Fysik og Nanoteknologi</li>
-  <li>David Fasthold - C. General Engineering</li>
+  <li>David Fastholm - C. General Engineering</li>
   <li>Emma Aabo Nielsen - C- Geofysik og Rumteknologi</li>
   <li>Sofia Myrup Otero - C. Kvantitativ Biologi og Sygdomsmodellering</li>
   <li>Emil Bach Andersen - C. Kemi og Teknologi</li>
@@ -35,8 +35,8 @@ title: KABS
   <li>Emil Gæde - C. Medicin og teknologi</li>
   <li>Christoffer Piilmann - C. Netværsteknologi og IT</li>
   <li>Emma Hillersdal - C. Produktion og Konstruktion</li>
-  <li>Emilie Lund SChr�der - C. Software</li>
-  <li>Asbj�rn Marin Kruuse - C. Strategisk Analyse og Systemdesign</li>
+  <li>Emilie Lund Schrøder - C. Softwareteknologi</li>
+  <li>Asbjørn Martin Kruuse - C. Strategisk Analyse og Systemdesign</li>
   <li>Anders Christian Sperling - C. Teknisk Biomedicin</li>
   <li>Vinh Duy Nguyen - C. Vand, Bioressourcer og Miljømanagement</li>
   
