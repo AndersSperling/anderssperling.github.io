@@ -7,7 +7,7 @@ body {
 #container {
   margin: auto;
   top:0;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Droid', sans-serif;
   color: #ffffff;
   background-image: url("/static/img/mainBaggrund.jpeg");
   background-size: cover;
@@ -195,7 +195,7 @@ Form
 */
 
 input, textarea, select, button {
-  font-family: 'Droid Serif', serif;
+  font-family: 'Droid', sans-serif;
 }
 
 input, textarea {
