@@ -9,7 +9,7 @@ title: KABS
 <h2>KABS18:</h2>
 <ul>
   <li>Benjamin Steen-Andersen - D. Byggeri og Infrastruktur & D. Arktisk Teknologi</li>
-  <li>Jacob Pedersen - Diplom Bygningsdesign</li>
+  <li>Jacob Pedersen - D. Bygningsdesign</li>
   <li>Jakob Mølhave - D. Elektroteknologi & D. Elektrisk Energiteknologi</li>
   <li>Sarah Beckerlee - D. Eksport og Teknologi</li>
   <li>Sofie Emelie Lind - D. Fødevaresikkerhed og -kvalitet</li>
@@ -32,7 +32,7 @@ title: KABS
   <li>Sofia Myrup Otero - C. Kvantitativ Biologi og Sygdomsmodellering</li>
   <li>Emil Bach Andersen - C. Kemi og Teknologi</li>
   <li>Toke Bøgelund-Andersen - C. Matematik og Teknologi</li>
-  <li>Emil Gæde - C. Medicin og teknologi</li>
+  <li>Emil Gæde - C. Medicin og Teknologi</li>
   <li>Christoffer Piilmann - C. Netværsteknologi og IT</li>
   <li>Emma Hillersdal - C. Produktion og Konstruktion</li>
   <li>Emilie Lund Schrøder - C. Softwareteknologi</li>
