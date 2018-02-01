@@ -107,7 +107,7 @@ h1.title {
   background-size: contain;
   background-repeat: no-repeat;
   /*border-radius: 80px;*/
-  margin-top: 0 !important; 
+  margin-top: 0 !important;
 }
 
 .header-container aside h2 {
@@ -204,7 +204,7 @@ Form
   border-radius: 25px;
   font-size: 3em;
   color: white;
-  background-color: rgba(215,142,38,1);
+  background-color: rgba(255,238,0,1);
 }
 
 input, textarea, select, button {
@@ -303,4 +303,3 @@ th, td {
     display: none;
   }
 }
-
